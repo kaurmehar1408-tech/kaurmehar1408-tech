@@ -33,9 +33,6 @@
 - 📊 Working through Statistics & Data Engineering fundamentals for ML pipelines
 - 🚀 Building projects that combine software engineering with applied ML
 
-### 🌐 Connect With Me
-
->
 🌐 Connect With Me
 <p align="left"> <a href="https://www.linkedin.com/in/harmeharkaur1408" target="_blank"> 
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
