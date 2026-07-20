@@ -35,16 +35,11 @@
 
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="www.linkedin.com/in/harmeharkaur1408" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <!-- Uncomment and add your link if you start the YouTube channel
-  <a href="https://youtube.com/@YOUR-CHANNEL" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  -->
-</p>
+>
+🌐 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/harmeharkaur1408" target="_blank"> 
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+<!-- Uncomment and add your link if you start the YouTube channel <a href="https://youtube.com/@YOUR-CHANNEL" target="_blank"> <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> --> </p>
 ---
 
 <p align="center"><i>⭐️ Consistency over intensity — one topic, one commit at a time.</i></p>
