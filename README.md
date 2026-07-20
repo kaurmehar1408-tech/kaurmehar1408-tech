@@ -4,7 +4,6 @@
 <p align="center">
   🎓 2nd Year BTech CSE (AI/ML) @ Chitkara University <br/>
   🌱 Learning step by step: Java → Python → DSA → AI/ML <br/>
-  🎯 Goal: Cracking interviews at Salesforce, Goldman Sachs, JPMorgan <br/>
   📌 Documenting my coding & learning journey here
 </p>
 
@@ -34,21 +33,10 @@
 - 📊 Working through Statistics & Data Engineering fundamentals for ML pipelines
 - 🚀 Building projects that combine software engineering with applied ML
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaurmehar1408-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaurmehar1408-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaurmehar1408-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="www.linkedin.com/in/harmeharkaur1408" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!-- Uncomment and add your link if you start the YouTube channel
@@ -57,7 +45,6 @@
   </a>
   -->
 </p>
-
 ---
 
 <p align="center"><i>⭐️ Consistency over intensity — one topic, one commit at a time.</i></p>
